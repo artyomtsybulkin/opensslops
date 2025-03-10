@@ -13,7 +13,7 @@ OpenSSL 3.4.0 22 Oct 2024 (Library: OpenSSL 3.4.0 22 Oct 2024)
 
 ## Usage
 
-Switch to directory `scripts/`:
+1. Clone repository and switch to directory `scripts/`:
 ```bash
 git clone https://github.com/artyomtsybulkin/opensslops.git
 cd opensslops/scripts/
